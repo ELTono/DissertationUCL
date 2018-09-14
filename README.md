@@ -1,2 +1,3 @@
 # DissertationUCL
-Repository to allocate the code used for my dissertation
+This repository contains files used in my thesis. Given the data used for this project is propietary of Cambridge Quantum Computing, the data set and tensorboard files cannot be upload it in this repository. 
+There are 4 files: model_data, model_functions, model_run and Exploratory Data Analysis. Model_data contains the code related to the data preparation before using it in the models, model_functions contains all the functions related to the models and visual analysis, model_run contains the actual that runs a model and Exploratory Data Analysis is the jupyter notebook with EDA done over the dataset.
